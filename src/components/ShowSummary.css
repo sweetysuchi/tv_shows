@@ -1,0 +1,99 @@
+.show-summary-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .show-summary-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .show-summary-container p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .show-summary-container button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .show-summary-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .booking-form-container {
+    background-color: rgb(215, 218, 216);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .booking-form-container h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #0a0b0d;
+  }
+  
+  .booking-form-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(215, 218, 216);
+  }
+  
+  .booking-form-container input {
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #1b1818;
+    border-radius: 5px;
+  }
+  
+  .booking-form-container p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .booking-form-container button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .booking-form-container button:hover {
+    background-color: #f8ec07;
+    color: #007bff;
+
+  }
+  
+  .show-summary-container img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .show-summary-container {
+    background-color: #0056b3;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+  }
+  
